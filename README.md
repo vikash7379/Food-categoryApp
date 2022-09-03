@@ -2,6 +2,12 @@
 
 <img src="demo.gif" width="700px">
 
+* Made in React.Js 
+* Category btn are Dynamically add depends on category in data.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
